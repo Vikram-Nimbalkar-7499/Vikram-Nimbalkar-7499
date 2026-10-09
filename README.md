@@ -1,5 +1,14 @@
 # 💫 About Me:
-<br>🎓 B.Tech student in Artificial Intelligence & Data Science with hands-on experience in Python, Java, Machine Learning, backend development, databases, and cloud deployment.<br>🚀 Built an ML prediction app with AWS Elastic Beanstalk & CI/CD, and an AI-powered e-commerce automation platform using FastAPI, Celery, Redis, and Computer Vision.<br>💡 Interested in building scalable, reliable, and distributed systems with a strong foundation in DSA, OOP, SQL, and Machine Learning.<br>🔭 I'm currently working on<br>•	AI-powered applications and backend systems.<br>🤝 I'm looking to collaborate on<br>•	Open-source AI/ML and backend development projects.<br>🆘 I'm looking for help with<br>•	Distributed systems, MLOps, and production AI deployment.<br>🌱 I'm currently learning<br>•	Advanced Machine Learning, Deep Learning, Java backend, and system design.<br>💬 Ask me about<br>•	Python, Java, Machine Learning, FastAPI, SQL, and AWS.<br>⚡ Fun fact<br>•	I enjoy turning ideas into real-world applications through code.<br><br>
+🎓 B.Tech student in Artificial Intelligence & Data Science with experience in Python, Java, Machine Learning, backend development, databases, and cloud deployment.  
+🚀 Built an ML prediction application using AWS Elastic Beanstalk and CI/CD, plus an AI-powered e-commerce automation platform using FastAPI, Celery, Redis, and Computer Vision.  
+💡 Passionate about building scalable, reliable, and distributed systems with a strong foundation in DSA, OOP, SQL, and Machine Learning.
+
+🔭 **Currently Working On:** AI-powered applications and scalable backend systems.  
+🤝 **Looking to Collaborate On:** Open-source AI/ML and backend development projects.  
+🆘 **Looking for Help With:** Distributed systems, MLOps, and production AI deployment.  
+🌱 **Currently Learning:** Advanced Machine Learning, Deep Learning, Java backend development, and System Design.  
+💬 **Ask Me About:** Python, Java, Machine Learning, FastAPI, SQL, and AWS.  
+⚡ **Fun Fact:** I love transforming innovative ideas into practical, real-world applications.
 
 
 ## 🌐 Socials:
